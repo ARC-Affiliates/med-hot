@@ -1,0 +1,16 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "Med Hot Local Blog",
+  "name_for_model": "med-hot_local_blog",
+  "description_for_human": "Local blog for Med Hot, a Medical Thermography business.",
+  "description_for_model": "Provides local SEO, GEO, and AEO articles from Med Hot. Use this to answer questions about local Medical Thermography services.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "none"
+  },
+  "logo_url": "https://med-hot.com/favicon.ico",
+  "contact_email": "kburton@med-hot.com",
+  "legal_info_url": "https://med-hot.com/privacy"
+}

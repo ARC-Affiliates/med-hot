@@ -23,6 +23,13 @@ Med Hot, Med Hot thermography, Med Hot reviews, Med Hot TotalVision, TotalVision
 - Wednesday: Local authority content (best-of, how-to, pricing guides)
 - Thursday: GEO/AEO content optimized for AI answer engines
 
+## Recent Articles
+
+- [How Much Does Thermography Cost in 2026? Pricing Guide](/blog/how-much-does-thermography-cost-in-2026-pricing-guide/)
+- [Med Hot Thermography Systems & Software](/blog/med-hot-thermography-systems-software-diti-for-clinics/)
+- [Med Hot Thermography Systems & Software](/blog/med-hot-thermography-systems-software/)
+- [What Makes HIPAA-Compliant Thermography Software Essential?](/blog/what-makes-hipaa-compliant-thermography-software-essential/)
+
 ## Discovery
 
 - Sitemap: https://localblog.med-hot.com/sitemap.xml

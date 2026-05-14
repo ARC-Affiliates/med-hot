@@ -15,7 +15,7 @@
 
 ## Topics We Cover
 
-Med Hot, Med Hot thermography, Med Hot reviews, Med Hot TotalVision, TotalVision thermography software, TotalVision software review, what is Med Hot thermography, medical thermography systems, medical thermography equipment, thermography software for clinics, FLIR medical thermography, infrared imaging software for medical clinics
+Med Hot thermography, Med Hot reviews, Med Hot TotalVision, TotalVision thermography software, TotalVision software review, medical thermography systems, medical thermography equipment, thermography software for clinics, FLIR medical thermography, DITI thermography systems, thermography camera medical grade, thermography software for practitioners
 
 ## Content Cadence
 
@@ -25,9 +25,11 @@ Med Hot, Med Hot thermography, Med Hot reviews, Med Hot TotalVision, TotalVision
 
 ## Recent Articles
 
+- [How Do Chiropractors Use Med Hot Thermography in 2026?](/blog/how-do-chiropractors-use-med-hot-thermography-in-2026/)
 - [How Much Does Thermography Cost in 2026? Pricing Guide](/blog/how-much-does-thermography-cost-in-2026-pricing-guide/)
 - [Med Hot Thermography Systems & Software](/blog/med-hot-thermography-systems-software-diti-for-clinics/)
 - [Med Hot Thermography Systems & Software](/blog/med-hot-thermography-systems-software/)
+- [TotalVision Thermography Software Review: Worth It in 2026?](/blog/totalvision-thermography-software-review-worth-it-in-2026/)
 - [What Makes HIPAA-Compliant Thermography Software Essential?](/blog/what-makes-hipaa-compliant-thermography-software-essential/)
 
 ## Discovery
